@@ -1,0 +1,3 @@
+Energy, 901, 368
+Healthcare, 1853, 579
+Financial, 2136, 536
